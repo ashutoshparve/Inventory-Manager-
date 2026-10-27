@@ -5,6 +5,7 @@ Built with **SQLite**, modular architecture, and optional **AWS S3 backup integr
 
 ---
 
+
 ## 🚀 Features
 
 - 🗃️ Add, update, and delete inventory items  
